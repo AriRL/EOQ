@@ -1,0 +1,2 @@
+# EOQ
+Teoria de inventario
